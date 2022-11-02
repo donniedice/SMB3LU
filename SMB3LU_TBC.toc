@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.0.4
+## Version: 1.0.5
 ## Title:|cffffffffSuper Mario Bros. 3|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
