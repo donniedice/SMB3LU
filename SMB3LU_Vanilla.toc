@@ -1,5 +1,5 @@
-## Interface: 11403
-## Version: 1.0.6
+## Interface: 11404
+## Version: 1.0.7
 ## Title:|cffc24e37Super Mario Bros. 3|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,8 +7,7 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/SMB3LU
 ## X-Curse-Project-ID: 594143
-## X-Tukui-ProjectID: 236
 ## X-Wago-ID: pkNMrj6z
 ## X-WoWI-ID: 26264
 
-main.lua
+Core.lua
