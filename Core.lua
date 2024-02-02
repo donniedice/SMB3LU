@@ -1,4 +1,4 @@
--- v1.0.8
+-- v1.0.9
 
 -- Event function for level up sound
 local frame_a = CreateFrame("Frame")
